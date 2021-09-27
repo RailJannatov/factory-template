@@ -1,0 +1,467 @@
+#intro {
+    background-image: url(/assets/image/BigFactory.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#into .intro-title h5 {
+    font-size: 1.5rem;
+}
+
+#intro .intro-title .color-yellow {
+    color: yellow;
+}
+
+#intro .intro-title h1 {
+    font-size: 8rem;
+}
+
+#intro .intro-title-padding {
+    padding: 80px 0;
+}
+
+#intro .intro-title p {
+    padding: 2px 300px;
+}
+
+#intro .intro-title .buttons {
+    position: relative;
+}
+
+#intro .intro-title .info-button,
+.get-started {
+    position: absolute;
+}
+
+#intro .intro-title .buttons {
+    height: 200px;
+}
+
+#intro .intro-title .get-started {
+    left: 50%;
+    top: 38%;
+}
+
+#intro .intro-title .info-button {
+    left: 23%;
+}
+
+#contact-us {
+    background-color: yellow;
+}
+
+#contact-us .contact-us-title {
+    padding: 40px 20px;
+}
+
+#contact-us .contact-us-title h5 {
+    font-size: 1.25rem;
+}
+
+#contact-us .contact-us-title p {
+    font-size: 2.25rem;
+    font-weight: 400;
+}
+
+#contact-us .container .right-col-buttons {
+    padding: 10px 10px;
+    margin-top: 75px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#contact-us .container .right-col-buttons .button-style {
+    font-weight: 700;
+    font-size: 0.875rem;
+    padding: 10px 20px;
+}
+
+
+#works .container .image-about p {
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+
+#works .container .item {
+    border: 10px solid transparent;
+}
+
+#works .image-about {
+    margin: 10px 36px 0 29px;
+}
+
+#works .image-about a {
+    color: yellow;
+    font-weight: 700;
+    font-size: 0.875rem;
+
+}
+
+#works .item .image img {
+    height: 264px;
+}
+
+#works .item .image .image-3 {
+    width: 395.99px;
+}
+
+#story {
+    background-color: #f2f2f2;
+}
+
+#story .story-title .story-subhead {
+    font-size: 1.25rem;
+}
+
+#story .story-title .story-head {
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+#story .story-title .story-paragraph {
+    padding: 5px 328px 5px 260px;
+    margin-bottom: 50px;
+}
+
+#story .story-about,
+.story-mission,
+.story-goals {
+    padding: 0px 96px 0px 26px;
+}
+
+#story .story-about,
+.story-mission,
+.story-goals,
+.story-reliability,
+.story-expertise,
+.story-quality h5 {
+    font-size: 1.125rem;
+}
+
+#story .story-about,
+.story-mission,
+.story-goals,
+.story-reliability,
+.story-expertise,
+.story-quality p {
+    font-size: 0.875rem;
+
+}
+
+.paragraph-margin {
+    margin-top: 15px;
+}
+
+#story .story-title {
+    padding-top: 60px;
+}
+
+#story .left-col {
+    padding-left: 68px;
+}
+
+#story .center-col-img img {
+    width: 268px;
+}
+
+#story .center-col-img {
+    background-image: url(/assets/image/bigheight.jpeg);
+    min-height: 494px;
+}
+
+#story .story-expertise,
+.story-quality,
+.story-reliability {
+    padding: 0px 142px 0px 0px;
+}
+
+#projects {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)), url(/assets/image/slider-background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+
+#projects .projects-title {
+    padding: 55px 10px;
+}
+
+#projects .projects-title h2 {
+    font-size: 3rem;
+    color: #fff;
+}
+
+#projects .projects-title h5 {
+    color: #fff;
+    font-size: 1.25rem;
+}
+
+#projects img {
+    height: 330px;
+}
+
+#brands {
+    background-color: #f2f2f2;
+}
+
+#brands .img-size {
+    width: 138px;
+    height: 91px;
+    margin: 55px 25px 21px 22px;
+
+}
+
+#team .team-member {
+    background-color: #f2f2f2;
+    width: 359px;
+
+}
+
+#team .team-title {
+    padding-top: 86px;
+}
+
+#team .team-title h3 {
+    margin-bottom: 50px;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+#team .team-title h4 {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+#team .team-member .member-about h5 {
+    font-weight: 400;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    margin-top: 24px;
+}
+
+#team .team-member .member-about p {
+    font-size: 0.875rem;
+}
+
+.padding-to-members {
+    padding: 0px 74px;
+}
+
+#statics {
+    background-color: yellow;
+}
+
+#statics .col-md-3 h2 {
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+#statics .col-md-3 p {
+    font-size: 0.875rem;
+}
+
+#statics .padding-static {
+    padding: 0 183px;
+}
+
+#statics .static-item {
+    margin: 92px 15px 38px 89px;
+    padding-bottom: 22px;
+}
+
+#testimonial {
+    background-color: #f2f2f2;
+    padding-top: 30px;
+    padding-bottom: 55px;
+}
+
+#testimonial .testimonial-title {
+    margin-top: 34px;
+    margin-bottom: 70px;
+}
+
+#testimonial .testimonial-title h4 {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+#testimonial .testimonial-title h2 {
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+#testimonial .engineer-item {
+    position: relative;
+}
+
+#testimonial .engineer-item .engineer-image {
+    position: absolute;
+}
+
+#testimonial .engineer-item .engineer-pic,
+.quatiton-image {
+    position: absolute;
+}
+
+#testimonial .engineer-item .engineer-image .engineer-pic img {
+    width: 80px;
+    height: 81px;
+}
+
+#testimonial .engineer-item .quatiton-image img {
+    height: 37px;
+    width: 37px;
+    left: 15px;
+}
+
+#testimonial .engineer-item {
+    background-color: #fff;
+    padding: 53px 41px 15px 41px;
+}
+
+#testimonial .engineer-item .engineer-about {
+    margin-top: 30px;
+}
+
+#testimonial .engineer-item .engineer-image .engineer-pic {
+    left: 52px;
+    top: -81px;
+}
+
+#testimonial .engineer-item .quatiton-image {
+    top: -34px;
+}
+
+#testimonial .engineer-item .engineer-about h5 {
+    font-weight: 400;
+    font-size: 1.25rem;
+    margin-top: 39px;
+}
+
+#quality {
+    background-image: linear-gradient(0deg, rgba(255, 206, 62, 0.6), rgba(255, 206, 62, 0.6)),
+        url(/assets/image/background-quality.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#quality .quality-title .signature img {
+    width: 223px;
+    height: 86px;
+}
+
+#quality .quality-title h2 {
+    font-size: 3rem;
+    font-weight: 400;
+    color: #fff;
+}
+
+#quality .quality-title {
+    padding: 108px 20px 87px 20px;
+}
+
+#blog .blog-title {
+    margin-top: 88px;
+    margin-bottom: 60px;
+}
+
+#blog .blog-title h5 {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+#blog .blog-title h2 {
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+#blog .blog-item {
+    position: relative;
+}
+
+#blog .blog-item .image-date {
+    background-color: #ffce3e;
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    left: 0;
+    top: 85%;
+    padding: 2px 10px 2px 19px;
+    font-weight: 700;
+}
+
+#blog .blog-about {
+    margin-top: 46px;
+    padding-left: 22px;
+    padding-right: 86px;
+}
+
+#blog .blog-about h5 {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+#blog .blog-about p {
+    font-size: 0.875rem;
+    margin-top: 20px;
+}
+
+#blog .blog-item .image-date p {
+    font-size: 1.25rem;
+}
+
+#blog .blog-about a {
+    color: yellow;
+    font-weight: 700;
+    font-size: 0.875rem;
+}
+
+#call-us {
+    background-color: #000;
+    padding: 40px 10px 40px 10px;
+    margin-top: 60px;
+}
+
+#call-us .call-item {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 21px;
+}
+
+#call-us .call-item .call-icon i {
+    font-size: 60px;
+}
+
+#call-us .call-about h5 {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: yellow;
+    margin-bottom: 2px;
+    margin-top: 10px;
+}
+
+#call-us .call-about p {
+    font-size: 0.875rem;
+    color: #fff;
+}
+
+#call-us .call-icon {
+    margin-right: 25px;
+    color: #fff;
+}
+
+#creater-link {
+    background-color: #333333;
+    padding: 40px 10px 24px 10px;
+
+}
+
+#creater-link .creater-title a {
+    color: #e2c0ec;
+}
+
+#creater-link .creater-title p {
+    color: #fff;
+    font-size: 0.8rem;
+}
